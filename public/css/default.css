@@ -1,0 +1,47 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+/*--LOGIN PAGE/SIGNUP/FORGOTPASS--*/
+
+.login-table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.login-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.login-form .form-control {
+    height: 50px;
+    border: none;
+    border-bottom: 2px solid #d8d8d8;
+    border-radius: 0px;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.login-form .form-control:focus {
+    border-color: #6362b8;
+}
+
+.forgot-pass-txt {
+    line-height: 22px;
+}
+
+.home-icon {
+    font-size: 50px;
+}
+
+.bg-signup {
+	background: #6362b8;
+}

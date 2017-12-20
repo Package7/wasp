@@ -1,0 +1,223 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-12-19 00:57:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 00:57:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-12-19 01:06:50 --> 404 Page Not Found: RSSFeedphp/index
+ERROR - 2017-12-19 06:00:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 06:01:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 06:01:28 --> Severity: Notice --> Undefined variable: page /home/hellgaming/public_html/application/views/pages/view_page.php 18
+ERROR - 2017-12-19 06:01:28 --> Severity: Notice --> Undefined variable: page /home/hellgaming/public_html/application/views/pages/view_page.php 19
+ERROR - 2017-12-19 12:52:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-12-19 12:56:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 13:11:18 --> 404 Page Not Found: Office/appearance
+ERROR - 2017-12-19 13:12:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 13:20:46 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:20:48 --> 404 Page Not Found: Office/appearance
+ERROR - 2017-12-19 13:21:06 --> 404 Page Not Found: Office/appearance
+ERROR - 2017-12-19 13:24:18 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:37:38 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:38:07 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:38:14 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:40:19 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:42:49 --> Severity: Notice --> Undefined property: MY_Loader::$model /home/hellgaming/public_html/application/controllers/Appearance.php 10
+ERROR - 2017-12-19 13:42:49 --> Severity: Notice --> Trying to get property of non-object /home/hellgaming/public_html/application/controllers/Appearance.php 10
+ERROR - 2017-12-19 13:42:49 --> Severity: Notice --> Undefined property: Appearance::$Pages_Model /home/hellgaming/public_html/application/controllers/Appearance.php 11
+ERROR - 2017-12-19 13:42:49 --> Severity: error --> Exception: Call to a member function get_pages() on null /home/hellgaming/public_html/application/controllers/Appearance.php 11
+ERROR - 2017-12-19 13:42:49 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/hellgaming/public_html/system/core/Exceptions.php:271) /home/hellgaming/public_html/system/core/Common.php 570
+ERROR - 2017-12-19 13:43:21 --> 404 Page Not Found: Appearance/menus
+ERROR - 2017-12-19 13:43:28 --> 404 Page Not Found: Appearance/menus
+ERROR - 2017-12-19 13:43:30 --> 404 Page Not Found: Appearance/menus
+ERROR - 2017-12-19 13:45:45 --> 404 Page Not Found: Appearance/menus
+ERROR - 2017-12-19 13:46:12 --> 404 Page Not Found: Appearance/menus
+ERROR - 2017-12-19 13:46:41 --> Severity: error --> Exception: syntax error, unexpected ''office/appearance/menus);' (T_ENCAPSED_AND_WHITESPACE) /home/hellgaming/public_html/application/controllers/Appearance.php 9
+ERROR - 2017-12-19 13:46:57 --> Severity: error --> Exception: syntax error, unexpected ''office/appearance/menus);' (T_ENCAPSED_AND_WHITESPACE) /home/hellgaming/public_html/application/controllers/Appearance.php 9
+ERROR - 2017-12-19 13:47:48 --> Severity: error --> Exception: syntax error, unexpected ''office/appearance/menus);' (T_ENCAPSED_AND_WHITESPACE) /home/hellgaming/public_html/application/controllers/Appearance.php 9
+ERROR - 2017-12-19 13:48:08 --> Severity: error --> Exception: Cannot access parent:: when current class scope has no parent /home/hellgaming/public_html/application/controllers/Appearance.php 5
+ERROR - 2017-12-19 13:48:10 --> Severity: error --> Exception: Cannot access parent:: when current class scope has no parent /home/hellgaming/public_html/application/controllers/Appearance.php 5
+ERROR - 2017-12-19 13:48:23 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:49:52 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:50:53 --> Severity: Notice --> Undefined variable: pages /home/hellgaming/public_html/application/views/office/appearance/menus.php 30
+ERROR - 2017-12-19 13:50:53 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:51:09 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:51:59 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ',' or ';' /home/hellgaming/public_html/application/views/office/appearance/menus.php 30
+ERROR - 2017-12-19 13:52:05 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:52:32 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:52:57 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:53:16 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:53:33 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:53:57 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:54:14 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:54:30 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:57:04 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:57:15 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:57:32 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:57:53 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:58:08 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:58:23 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:58:48 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:58:58 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 13:59:08 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:03:13 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:04:07 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:04:26 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:05:23 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:05:56 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:06:43 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:07:08 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:08:29 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:08:41 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:08:43 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:09:56 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:09:57 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:09:57 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:09:57 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:09:57 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 14:10:59 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:10:59 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 14:11:00 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:11:00 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:11:00 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:11:40 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:11:40 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 14:11:41 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:11:41 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:11:41 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:13:53 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:13:54 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 14:13:54 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:13:54 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:13:54 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:16:19 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:16:19 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 14:16:19 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:16:19 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:16:19 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:16:26 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 14:16:27 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 14:16:27 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:16:27 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:16:27 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 14:26:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 14:26:59 --> Severity: Notice --> Undefined variable: page /home/hellgaming/public_html/application/views/pages/view_page.php 18
+ERROR - 2017-12-19 14:26:59 --> Severity: Notice --> Undefined variable: page /home/hellgaming/public_html/application/views/pages/view_page.php 19
+ERROR - 2017-12-19 15:10:01 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 15:10:02 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 15:10:02 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:10:02 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:10:02 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:11:44 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 15:11:45 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 15:11:45 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:11:45 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:11:45 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:19:15 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 15:19:16 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:19:16 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 15:19:16 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 15:19:16 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 16:14:42 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:06:47 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:07:05 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:07:05 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:05 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:05 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:05 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:07:22 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:07:22 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:07:22 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:22 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:22 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:58 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:07:58 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:07:59 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:59 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:07:59 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:08:17 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:08:17 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:08:18 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:08:18 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:08:18 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:09:56 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:09:56 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:09:56 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:09:56 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:09:56 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:10:39 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:10:39 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:10:40 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:10:40 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:10:40 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:10:51 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:10:51 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:10:52 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:10:52 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:10:52 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:11:03 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:11:04 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:11:04 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:11:04 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:11:04 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:12:24 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:12:24 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:12:25 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:12:25 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:12:25 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:13:30 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:13:31 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:13:31 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:13:31 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:13:31 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:20:43 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:20:43 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:20:44 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:20:44 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:20:44 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:21:22 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:21:22 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:21:22 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:21:22 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:21:22 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:22:31 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:22:31 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:22:31 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:22:31 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:22:31 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:22:44 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:22:44 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:22:45 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:22:45 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:22:45 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:23:14 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:23:14 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:23:14 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:23:14 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:23:14 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:23:46 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:23:47 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:23:47 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:23:47 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:23:47 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:30:10 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:30:11 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:30:11 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:30:11 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:30:11 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:34:26 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:34:26 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:34:26 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:34:26 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:34:26 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:35:06 --> 404 Page Not Found: Assets/js
+ERROR - 2017-12-19 17:35:06 --> 404 Page Not Found: Public/css
+ERROR - 2017-12-19 17:35:06 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:35:06 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 17:35:06 --> 404 Page Not Found: Public/js
+ERROR - 2017-12-19 19:16:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-12-19 21:33:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 22:06:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 22:19:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 23:48:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 23:48:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-12-19 23:48:49 --> 404 Page Not Found: Forum/index.php
