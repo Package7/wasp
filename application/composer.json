@@ -1,5 +1,6 @@
 {
     "require": {
-        "mandrill/mandrill": "1.0.*"
+        "mandrill/mandrill": "1.0.*",
+        "stripe/stripe-php": "^5.8"
     }
 }
